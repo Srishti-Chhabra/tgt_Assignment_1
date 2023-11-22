@@ -1,3 +1,3 @@
-class New {
-//hhhehdk
+object New extends App {
+  println("hey there")
 }
